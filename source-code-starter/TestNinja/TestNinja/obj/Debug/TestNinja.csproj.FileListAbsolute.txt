@@ -1,0 +1,27 @@
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.pdb
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.csprojResolveAssemblyReference.cache
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.pdb
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.dll.config
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Unit_Testing_For_C#_Developers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
